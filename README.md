@@ -12,5 +12,5 @@
 ### 3주차(모델링 모드)
 ![HighresScreenshot00000 (1)](https://user-images.githubusercontent.com/40791869/215929818-59b34e8b-a9e4-42ff-85bd-375e14133359.png)
 
-### 4주차(블루 프린트, )
+### 4주차(블루 프린트, 타임라인)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/40791869/215930240-271795ca-58f8-42f0-a317-fd429495a566.gif)
