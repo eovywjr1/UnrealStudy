@@ -6,14 +6,22 @@
 ### 1주차(액터)
 ![HighresScreenshot00000](https://user-images.githubusercontent.com/40791869/215929678-13d6c821-1195-4346-9451-d2d8a2dc8cc1.png)
 
+<br/><br/>
+
 ### 2주차(퀵셀 브리지)
 ![HighresScreenshot00001](https://user-images.githubusercontent.com/40791869/215929757-58cdea6d-81b7-4652-9b5a-687f13c3cd2c.png)
+
+<br/><br/>
 
 ### 3주차(모델링 모드)
 ![HighresScreenshot00000 (1)](https://user-images.githubusercontent.com/40791869/215929818-59b34e8b-a9e4-42ff-85bd-375e14133359.png)
 
+<br/><br/>
+
 ### 4주차(블루 프린트)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/40791869/215930240-271795ca-58f8-42f0-a317-fd429495a566.gif)
+
+<br/><br/>
 
 ### 5주차(블루 프린트)
 ![언리얼 5주차](https://user-images.githubusercontent.com/40791869/216535408-151b4bc4-1b9a-4948-b2f2-09afb9fc5ac3.gif)
